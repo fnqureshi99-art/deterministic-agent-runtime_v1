@@ -1,0 +1,5 @@
+{
+  "name": "Deterministic Agent Runtime",
+  "description": "An advanced, open-source runtime environment for deterministic AI agents. Features multi-provider LLM support, secure local sandboxing, real-time Python execution via Pyodide, and seamless OAuth integrations for enterprise tools.",
+  "requestFramePermissions": []
+}
