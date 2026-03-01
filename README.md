@@ -31,8 +31,8 @@ An advanced, open-source runtime environment for building, orchestrating, and ex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/deterministic-agent-runtime.git
-   cd deterministic-agent-runtime
+   git clone https://github.com/your-org/deterministic-agent-runtime_v1.git
+   cd deterministic-agent-runtime_V1
    ```
 
 2. Install dependencies:
